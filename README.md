@@ -18,14 +18,15 @@ array math.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/vectormath-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/vectormath-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/vectormath-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/vectormath-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/vectormath-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/vectormath-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/vectormath-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/vectormath-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vectormath/badges/version.svg)](https://anaconda.org/conda-forge/vectormath)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vectormath/badges/downloads.svg)](https://anaconda.org/conda-forge/vectormath)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-vectormath-green.svg)](https://anaconda.org/conda-forge/vectormath) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/vectormath.svg)](https://anaconda.org/conda-forge/vectormath) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/vectormath.svg)](https://anaconda.org/conda-forge/vectormath) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/vectormath.svg)](https://anaconda.org/conda-forge/vectormath) |
 
 Installing vectormath
 =====================
