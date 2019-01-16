@@ -1,6 +1,6 @@
 {% set name = "vectormath" %}
-{% set version = "0.2.0" %}
-{% set sha256 = "80142d4c8d6110ba152df8447d8761eaa4c5459244138eb64718666340eefa4a" %}
+{% set version = "0.2.1" %}
+{% set sha256 = "18afad14d1614c3b880e764a7a5d5928fd5140617803630a6ca45680c597c8f6" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
