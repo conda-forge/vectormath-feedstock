@@ -1,6 +1,6 @@
 {% set name = "vectormath" %}
-{% set version = "0.2.1" %}
-{% set sha256 = "18afad14d1614c3b880e764a7a5d5928fd5140617803630a6ca45680c597c8f6" %}
+{% set version = "0.2.2" %}
+{% set sha256 = "f9f9209d350ec89dc11e2548e0e6397c1b9489c8468eb50ce33788ee4322a7b8" %}
 
 package:
   name: {{ name|lower }}
